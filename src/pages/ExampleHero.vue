@@ -64,24 +64,24 @@ export default {
       heroBG: "bg.jpg",
       cards: [
         {
-          title: "this one has a link",
+          title: "We're Fluid",
           img: "https://picsum.photos/600/300",
           link: "https://vuejs.org/v2/guide/components-props.html",
           content:
-            "blanditiis animi sequi beatae nisi facilis maiores voluptate doloribus necessitatibus est laborum vel. Quasi, nisi. "
+            "Our direction remains open to change. Our tech stack is flexible, which enables us to iterate quickly and pivot whenever needed. "
         },
         {
-          title: "hello world",
-          img: "card.png",
+          title: "We're Human",
+          img: "cell.jpg",
           extraClassImg: "h-64",
           content:
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis neque, mollitia a magni ducimus aliquam blanditiis animi sequi beatae nisi facilis maiores voluptate doloribus necessitatibus est laborum vel. Quasi, nisi. "
+            "We’re experienced practitioners of human-centric design. We build local first solutions and generalized software that can scale. "
         },
 
         {
-          title: "No image here",
+          title: "We're Intelligent",
           content:
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis neque, mollitia a magni ducimus aliquam blanditiis animi sequi beatae nisi facilis maiores voluptate doloribus necessitatibus est laborum vel. Quasi, nisi. "
+            "We harness the power of networked thought from within the Hackalong network. Knowledge without borders from collaborators far and wide. "
         }
       ]
     };
