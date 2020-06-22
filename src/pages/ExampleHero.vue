@@ -2,7 +2,14 @@
   <LayoutHero>
     <template slot="hero">
       <hero-container :bg="heroBG">
-        <h1 class="text-6xl">Hero content</h1>
+        <div  class="text-center">
+          <div>
+            <h1 class="text-6xl">LunarPunk Labs</h1>
+          </div>
+          <div>
+            <h3> Systemic soloutions</h3>
+          </div>
+        </div>
       </hero-container>
     </template>
 

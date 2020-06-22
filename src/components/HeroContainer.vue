@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-primary-700 h-screen overflow-hidden">
+  <div class="bg-black-900 h-screen overflow-hidden">
     <g-image
       v-if="bg"
       :src="setImage"
