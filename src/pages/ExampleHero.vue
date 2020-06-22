@@ -64,18 +64,19 @@ export default {
       heroBG: "bg.jpg",
       cards: [
         {
-          title: "We're Fluid",
-          img: "https://picsum.photos/600/300",
-          link: "https://vuejs.org/v2/guide/components-props.html",
-          content:
-            "Our direction remains open to change. Our tech stack is flexible, which enables us to iterate quickly and pivot whenever needed. "
-        },
-        {
           title: "We're Human",
-          img: "cell.jpg",
-          extraClassImg: "h-64",
+          img: "lunarprint.jpg",
+          // extraClassImg: "h-64",
           content:
             "We’re experienced practitioners of human-centric design. We build local first solutions and generalized software that can scale. "
+        },
+        
+        {
+          title: "We're Fluid",
+          img: "fluidmoon.jpg",
+          //link: "https://vuejs.org/v2/guide/components-props.html",
+          content:
+            "Our direction remains open to change. Our tech stack is flexible, which enables us to iterate quickly and pivot whenever needed. "
         },
 
         {
