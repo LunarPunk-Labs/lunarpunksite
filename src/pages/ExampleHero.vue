@@ -7,7 +7,7 @@
             <h1 class="text-6xl">LunarPunk Labs</h1>
           </div>
           <div>
-            <h3> Systemic soloutions</h3>
+            <h3> Systemic solutions</h3>
           </div>
         </div>
       </hero-container>
@@ -56,7 +56,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Hero Example !"
+    title: "Home"
   },
 
   data() {

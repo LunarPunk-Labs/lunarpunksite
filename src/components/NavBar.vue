@@ -6,7 +6,7 @@
       <div class="flex items-center flex-no-shrink mr-6">
         <strong>
           <g-link to="/" :title="$static.metadata.siteName">
-            <g-image src="../../static/hackalonglogo1.png" class="w-40" alt="logo" />
+            <g-image src="../../static/siteLogo_light.png" class="w-56" alt="logo" />
           </g-link>
         </strong>
       </div>

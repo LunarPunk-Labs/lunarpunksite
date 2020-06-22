@@ -1,5 +1,5 @@
 {
-  "name": "hackalong-boilerplate",
+  "name": "LunarPunk Labs!",
   "private": true,
   "scripts": {
     "build": "gridsome build",
