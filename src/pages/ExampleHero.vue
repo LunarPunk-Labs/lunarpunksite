@@ -80,7 +80,8 @@ export default {
         },
 
         {
-          title: "We're Intelligent",
+          title: "We're Mycelia",
+          img: "glowmushrooms.jpg",
           content:
             "We harness the power of networked thought from within the Hackalong network. Knowledge without borders from collaborators far and wide. "
         }
