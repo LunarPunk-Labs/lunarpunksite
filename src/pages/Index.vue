@@ -100,7 +100,7 @@ export default {
         },
          {
           title: "Social",
-          img: "socialbonfiremoon.jpg",
+          img: "socialbonfiremoon2.jpg",
           content:
             "We're a distributed organisation made from an ecology of peers that come and go. A structured network of solidarity and mutual care",
           link: "../social"
