@@ -95,21 +95,21 @@ export default {
           title: "Enviromental",
           img: "enviromentalmoon.jpg",
           content:
-            "We harness the power of networked thought from within the Hackalong network. Knowledge without borders from collaborators far and wide. ",
+            "We design and build biomimetic technology intended to drive the restoration and regeneration of our biosphere from a living systems perspective",
           link: "../enviromental"
         },
          {
           title: "Social",
           img: "socialbonfiremoon.jpg",
           content:
-            "We harness the power of networked thought from within the Hackalong network. Knowledge without borders from collaborators far and wide. ",
+            "We're a distributed organisation made from an ecology of peers that come and go. A structured network of solidarity and mutual care",
           link: "../social"
         },
         {
           title: "Governace",
           img: "gonvernancemoon.jpg",
           content:
-            "We harness the power of networked thought from within the Hackalong network. Knowledge without borders from collaborators far and wide. ",
+            "We're transparent about our activities and are collectivly governed by the internal and external stakeholders involved with our network",
           link: "../governance"
           
         }
